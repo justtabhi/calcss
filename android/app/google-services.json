@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461207505278",
+    "firebase_url": "https://calculazzi.firebaseio.com",
+    "project_id": "calculazzi",
+    "storage_bucket": "calculazzi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461207505278:android:899dd53e5aefaff3",
+        "android_client_info": {
+          "package_name": "com.example.quakes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461207505278-5dejmap468ufto5dmlnb9u0ahbhvfc3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5a3HwmTe6Mf5BTdDXrrqcZIxua9S3aS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
